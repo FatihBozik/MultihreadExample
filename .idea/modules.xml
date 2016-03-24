@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fig26_03_04/Fig26_03_04.iml" filepath="$PROJECT_DIR$/Fig26_03_04/Fig26_03_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fig26_05_07/Fig26_05_07.iml" filepath="$PROJECT_DIR$/Fig26_05_07/Fig26_05_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fig26_08/Fig26_08.iml" filepath="$PROJECT_DIR$/Fig26_08/Fig26_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fig26_09-13/Fig26_09-13.iml" filepath="$PROJECT_DIR$/Fig26_09-13/Fig26_09-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fig26_14-15/Fig26_14-15.iml" filepath="$PROJECT_DIR$/Fig26_14-15/Fig26_14-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fig26_16-17/Fig26_16-17.iml" filepath="$PROJECT_DIR$/Fig26_16-17/Fig26_16-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fig26_18-19/Fig26_18-19.iml" filepath="$PROJECT_DIR$/Fig26_18-19/Fig26_18-19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fig26_20-21/Fig26_20-21.iml" filepath="$PROJECT_DIR$/Fig26_20-21/Fig26_20-21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fig26_24-25/Fig26_24-25.iml" filepath="$PROJECT_DIR$/Fig26_24-25/Fig26_24-25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fig26_26-27/Fig26_26-27.iml" filepath="$PROJECT_DIR$/Fig26_26-27/Fig26_26-27.iml" />
+    </modules>
+  </component>
+</project>
